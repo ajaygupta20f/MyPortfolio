@@ -10,7 +10,7 @@ export const Bio = {
     
   github: "https://github.com/ajaygupta20f",
   resume:
-    "https://drive.google.com/file/d/1gcjMYqW250GSjB0svwJQJIXqXuGbRB8G/view?usp=sharing",
+    "https://drive.google.com/file/d/1U0a4zBW6dGCHcUBiDV5GFKP8htwKmRtq/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ajay-gupta-758a79204/",
 
 };
