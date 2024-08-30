@@ -376,7 +376,7 @@ export const MobileMenu = styled.div`
   position: absolute;
   top: 80px;
   right: 0;
-  width: 91%;
+  width: 88%;
   padding: 12px 40px 24px 100px;
   background: ${({ theme }) => theme.card_light + 99};
   transition: all 0.6s ease-in-out;
