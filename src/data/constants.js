@@ -6,11 +6,11 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "Recent B. Tech graduate in Computer Science and Engineering From Chhatrapati Shahu Ji Maharaj Unversity Kanpur. With a strong foundation in software development, algorithms, and problem-solving.  I'm passionate about web development and data structures/algorithms.I am proficient in Java and C++. I have honed my skills as a full-stack developer, crafting scalable web applications using React.js, Redux, and Firebase. I am eager to continue my journey as a versatile full-stack developer, where I can combine my passion for technology with my commitment to continuous improvement",
+    "B.Tech graduate in Computer Science and Engineering From Chhatrapati Shahu Ji Maharaj Unversity Kanpur. With a strong foundation in software development, algorithms, and problem-solving.  I'm passionate about web development and data structures/algorithms.I am proficient in Java and C++. I have honed my skills as a full-stack developer, crafting scalable web applications using React.js, Redux, and Firebase. I am eager to continue my journey as a versatile full-stack developer, where I can combine my passion for technology with my commitment to continuous improvement",
     
   github: "https://github.com/ajaygupta20f",
   resume:
-    "https://drive.google.com/file/d/1U0a4zBW6dGCHcUBiDV5GFKP8htwKmRtq/view?usp=sharing",
+    "https://drive.google.com/file/d/1N_qgvJGGCR2DLNA2OyD2tUxZs5Af2DPy/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/ajay-gupta-758a79204/",
 
 };
@@ -202,26 +202,41 @@ export const experiences = [
   // },
   {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyq7rG9Y9tkmDZLIzbnde7wd08wokqwaSAlA&s",
-    role: "Frontend Developer Intern",
-    company: "Oasis Infobyte",
-    date: "Sept 2023 - Nov 2023",
-    desc: "As a Frontend Developer Intern at Oasis Infobyte, you're responsible for assisting in the development and enhancement of the user interface (UI) for various web applications Gaining hands-on experience with modern frontend frameworks like ReactJS, improving your coding skills, and learning industry best practices",
+    img: "https://yt3.googleusercontent.com/ytc/AIdro_mnQLYhqpBMe9jn9rQQpIWDqlu7QTUIJ4G3OrxOz2XMaQ=s900-c-k-c0x00ffffff-no-rj",
+    role: "Mern Stack Developer",
+    company: "Vigor Enterprise",
+    date: "Apr 2025 - Aug 2025",
+    desc: "As a MERN Stack Developer at Vigore Enterprise, I was responsible for contributing to the development and enhancement of full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I gained practical experience in integrating frontend with backend APIs, working with React hooks and state management, and improving my skills in building scalable and maintainable applications while following industry best practices.",
     skills: [
      "HTML",
       "CSS",
       "JavaScript",
+       "React Js",
+        "Node Js",
+         "Express Js",
+          "MongoDB",
+         
+          
     ],
   
   },
-  {
+{
     id: 1,
-    img: "https://cdn.comparably.com/27579934/l/17407_logo_chegg.png",
-    role: "Tutor At Chegg India",
-    company: "Chegg India",
-    date: "Apr 2023 - July 2023",
-    desc: "As a Tutor at Chegg India, you play a crucial role in helping students succeed academically by providing expert guidance in the subject of Computer Science. Playing a vital role in students' educational journeys by providing timely and effective help, which can positively impact their academic performance.",
-   
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuoK2CrX4qYIRXnJLS56wRfNdza36R2LtLWQ&s",
+    role: "Mern Stack Developer Trainee",
+    company: "Jspider",
+    date: "May 2024 - Feb 2025",
+    desc: "As a MERN Stack Developer Trainee at Jspider, I was responsible for contributing to the development and enhancement of web applications using MongoDB, Express.js, React.js, and Node.js. During the Trainee, I gained hands-on experience in building full-stack applications, strengthening my coding skills, and learning industry best practices for modern web development.",
+    skills: [
+     "HTML",
+      "CSS",
+      "JavaScript",
+       "React Js",
+        "Node Js",
+         "Express Js",
+          "MongoDB",
+    ],
+  
   },
   // {
   //   id: 2,
@@ -274,8 +289,8 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsBVNyc-pd5A7XRKSyxbqYaQcHy3bPnMgdw&s",
     school: "Chhatrapati Shahu Ji Maharaj University  Kanpur",
     date: "Nov 2020 -  Jun 2024",
-    grade: "7.10 CGPA",
-    desc: "Recent B. Tech graduate in Computer Science and Engineering From Chhatrapati Shahu Ji Maharaj University Kanpur. With a strong foundation in software development, algorithms, and problem-solving I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others where I am learning and working on exciting projects with a team of talented developers.",
+    
+    desc: "B.Tech graduate in Computer Science and Engineering From Chhatrapati Shahu Ji Maharaj University Kanpur. With a strong foundation in software development, algorithms, and problem-solving I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - B.Tech, Computer Science and Engineering",
   },
   {
